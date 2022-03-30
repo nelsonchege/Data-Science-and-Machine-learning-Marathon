@@ -1,0 +1,9 @@
+List the three common types of error in your data
+
+- Sampling bias
+- Cherry-picking
+- Disclosing metrics
+- Overfitting
+- Focusing only on the numbers
+- Solution bias
+- Communicating poorly
